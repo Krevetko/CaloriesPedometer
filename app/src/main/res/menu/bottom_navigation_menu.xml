@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_pedometer"
+        android:icon="@drawable/ic_pedometer"
+        android:title="Pedometer" />
+    <item
+        android:id="@+id/navigation_calorie_counter"
+        android:icon="@drawable/ic_calorie_counter"
+        android:title="Calorie Counter" />
+</menu>
